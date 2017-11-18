@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+.DS_Store
+.idea/LearnWebpack.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+getting-started/dist/
+getting-started/package.json
+getting-started/yarn.lock
